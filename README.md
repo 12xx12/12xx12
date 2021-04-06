@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @12xx12
 - 👀 I’m interested in programming, networks, lighting, sound,...
-- 🌱 I’m currently learning everything - studiing CS at a University.
+- 🌱 I’m currently learning everything - studying CS at a University.
 - 📫 How to reach me: 12xx12100@gmail.com
 
 <!---
